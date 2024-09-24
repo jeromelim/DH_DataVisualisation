@@ -1,5 +1,5 @@
 fqdn==1.5.1
-Geohash==1.0
+python-geohash==1.0
 geohash2==1.1
 isoduration==20.11.0
 jsonpointer==3.0.0
