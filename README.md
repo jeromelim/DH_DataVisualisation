@@ -2,7 +2,7 @@
 
 ## Clone
 
-run `source setup.sh`
+run `source ./setup.sh`
 Open the cloned folder in VSCode
 You should see a popup for the list of recommended extensions based on your workspace. Click yes/install
 
