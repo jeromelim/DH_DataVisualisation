@@ -46,5 +46,10 @@ Once u downloaded the data open the datavis file and go to the file:
 There you can collapse Both the Data Cleaning and the Importing Cleaned Data then run all
 the cells inside by click on the play button.
 
+By any chance, if when the vscode asked you to download the python 3.11.9, They are most likely asking you to choose the `.venv (python 3.11.9)` where we are able to then run the system.
+if it doesnt work, `press f1 and write Reload and then press reload Window`.
+You can also run the function `Run All` and then scroll down to the "Visualising data with kepler.gl" 
+section to see the results.
+
 Once u are done run the "Visualising data with kepler.gl" cells and wait for a while till is it done?
 Be prepared to wait a while!
