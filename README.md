@@ -53,3 +53,9 @@ section to see the results.
 
 Once u are done run the "Visualising data with kepler.gl" cells and wait for a while till is it done?
 Be prepared to wait a while!
+
+
+
+*EXTRA NOTE*
+IF by any chance your code still doesnt work and kernel doesnt pop up check the Jupyter!
+Your vscode may not be compatible with the current version so u may need to switch Jupyter to an older version! Switch to pre-release or something i think?
